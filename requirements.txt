@@ -1,0 +1,16 @@
+torch==1.13.0
+timm==0.5.4
+scikit-image
+ptflops
+easydict
+PyYAML
+pillow
+torchvision==0.14.0
+opencv-python
+scikit-learn
+seaborn
+torchattacks
+# mmcv-full install with mim 
+# pip install -U openmim
+# mim install mmcv
+# pip install torch==1.13.0+cu117 torchvision==0.14.0+cu117 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu117
