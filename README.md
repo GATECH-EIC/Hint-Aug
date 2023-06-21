@@ -1,7 +1,9 @@
 # Hint-Aug: Drawing Hints from Foundation Vision Transformers Towards Boosted Few-Shot Parameter-Efficient Tuning</h1>
-**Zhongzhi Yu**, Shang Wu, Yonggan Fu, Shunyao Zhang, and Yingyan (Celine) Lin
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
+
+**Zhongzhi Yu**, Shang Wu, Yonggan Fu, Shunyao Zhang, and Yingyan (Celine) Lin
+
 
 Accepted at CVPR 2023. [ [Paper](https://arxiv.org/abs/2304.12520) | [Video](https://www.youtube.com/watch?v=Ben48mkV5JY) ]
 
