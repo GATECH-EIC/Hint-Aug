@@ -6,10 +6,7 @@ __pycache__/
 
 *.png
 *.npy
-data/
-*.sh
 log/
-saves/
 
 # C extensions
 *.so
